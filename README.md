@@ -1,4 +1,13 @@
-### Hi there 👋
+<a href="https://github.com/justjavac#gh-light-mode-only">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=JavanCheng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true#gh-light-mode-only" />
+</a>
+
+
+
+### Hello 👋
+>I'm a master student studying at CCNU. 
+>
+>Currently learning front-end development.
 
 <!--
 **JavanCheng/JavanCheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavanCheng&show_icons=true&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
