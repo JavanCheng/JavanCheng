@@ -7,9 +7,9 @@ A Master Student Studying at CCNU 🤣🤣🤣
 
 ## Metrics 👣
 <div align="center">
-  <img src="https://api.githubtrends.io/user/svg/JavanCheng/langs?time_range=one_year&theme=classic" alt="Most Used Languages" width="300"/>
-  <img src="https://api.githubtrends.io/user/svg/JavanCheng/repos?time_range=one_year&theme=classic&group=other" alt="Most Contributed Repositories" width="300" />
+  <img src="https://api.githubtrends.io/user/svg/JavanCheng/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" alt="Most Used Languages" width="300"/>
+  <img src="https://api.githubtrends.io/user/svg/JavanCheng/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic" alt="Most Contributed Repositories" width="300" />
 </div>
 <br>
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=JavanCheng&theme=nord&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=JavanCheng&theme=nord&row=1&column=6&no-frame=true&no-bg=true" /></div>
